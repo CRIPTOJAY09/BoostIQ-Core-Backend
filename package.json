@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "API para escanear tokens ganadores desde Binance",
   "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "start": "node index.js"
   },
